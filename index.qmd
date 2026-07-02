@@ -1,5 +1,29 @@
 ---
 title: "Tadao Hoshino's Website"
+page-layout: full
+about:
+  template: solana
+  image: Ike6804.jpg
+  image-width: 15em
+  image-shape: round
 ---
 
-I am a professor of econometrics at Waseda University.
+<div class="name-line">
+  <span class="name-text">Tadao Hoshino (星野匡郎)</span>
+  <span class="academic-links">
+    <a href="https://scholar.google.com/citations?user=_WtkfKkAAAAJ" target="_blank" aria-label="Google Scholar">
+      <i class="ai ai-google-scholar ai-2x"></i>
+    </a>
+    <a href="https://orcid.org/0000-0001-9484-2943" target="_blank" aria-label="ORCID">
+      <i class="ai ai-orcid ai-2x"></i>
+    </a>
+  </span>
+</div>
+
+[Curriculum Vitae](https://drive.google.com/file/d/1KdyAQnhQywSFx4MyaOTOLmx8rz-4c57b/view){target="_blank"} (Last updated: January 2025)
+
+<p class="one-line">Professor, School of Economics and Political Science, Waseda University</p>
+
+<p class="one-line">Address: 1-6-1 Nishi-waseda, Shinjuku-ku, Tokyo 169-8050, JAPAN</p>
+
+<p class="one-line">E-mail: thoshino[at]waseda.jp</p>

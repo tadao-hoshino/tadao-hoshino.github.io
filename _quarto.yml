@@ -8,10 +8,19 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: profile.qmd
+        text: Profile
       - href: research.qmd
         text: Research
-
+      - href: teach.qmd
+        text: Teaching
+      - href: books.qmd
+        text: Books (Japanese)
 format:
   html:
     theme: cosmo
     toc: false
+    css: style.css
+    include-in-header:
+      text: |
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
