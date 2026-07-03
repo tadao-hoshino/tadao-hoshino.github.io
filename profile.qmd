@@ -1,5 +1,59 @@
 ---
-title: "Research"
+title: "Profile"
 ---
 
-Published and Forthcoming Papers
+## Basic Information
+
+- Name: Tadao Hoshino (星野匡郎)
+  - Hoshino (星野) is my family name and it means "field of stars"
+- Languages: Japanese (native), English (fluent)
+- Hobbies: Piano, Origami (paper folding), Shogi (Japanese chess) 
+
+## Employment
+
+### Current position
+
+- Since April 2024: Professor, School of Political Science and Economics, Waseda University.
+
+### Past positions
+
+- April 2018 -- March 2024: Associate Professor, School of Political Science and Economics, Waseda University.
+- April 2016 -- March 2018: Assistant Professor (tenured), Department of Business Economics, Tokyo University of Science.
+- April 2014 -- March 2016: Assistant Professor (non-tenured), Global Education Center, Waseda University.
+- April 2012 -- March 2014: Research Fellow PD, Japan Society for the Promotion of Science.
+- April 2010 -- March 2012: Research Fellow DC2, Japan Society for the Promotion of Science.
+
+## Education
+
+- PhD in Social Engineering: Tokyo Institute of Technology, March 2012.
+- MSc in Local Economic Development: London School of Economics, November 2008.
+- BA in Economics: Waseda University, March 2007.
+
+## Research Visits
+
+- October 2024 -- September 2025: Melbourne Business School, the University of Melbourne.
+- August 2012 -- October 2012: Singapore Management University.
+
+## Research Interests
+
+- Spatial/Social Interaction Models
+- Program Evaluation
+- Non-market Valuation
+
+## Awards
+
+- Hosoya Prize, 2024.
+- Waseda Research Award, 2020.
+- Young Achievement Award, SEEPS 2018.
+
+## Professional Services
+
+### Conference / Workshop Organization
+
+- Organizer: Melbourne Workshop on Spatial and Spatio-Temporal Data Analysis, 2025.
+- Scientific Program Committee, Session Organizer: EcoSta 2023.
+- Local Organizing Committee Member: SEA 2021.
+
+### Refereeing
+
+Computational Statistics and Data Analysis, Econometric Theory, Econometrics, Economics Journal, Environmental and Resource Economics, International Economic Review, Journal of Applied Econometrics, Journal of Business and Economic Statistics, Journal of Econometrics, Journal of Regional Science, Journal of the Royal Statistical Society: Series B, Journal of Statistical Planning and Inference, PLOS ONE, Regional Science and Urban Economics, Resource and Energy Economics, Review of Economic Studies, Review of Economics and Statistics, Social Science Japan Journal, Spatial Economic Analysis, Statistics and Probability Letters, Urban Studies.
