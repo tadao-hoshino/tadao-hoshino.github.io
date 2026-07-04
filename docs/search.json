@@ -37,9 +37,9 @@
   {
     "objectID": "teach.html",
     "href": "teach.html",
-    "title": "Research",
+    "title": "Teaching Materials",
     "section": "",
-    "text": "Published and Forthcoming Papers"
+    "text": "Advanced Econometrics: Graduate Econometrics Textbook (Last updated: January 2026)"
   },
   {
     "objectID": "profile.html#employment",
@@ -96,5 +96,19 @@
     "title": "Books",
     "section": "",
     "text": "2025年, 日本評論社\n星野匡郎 著\n\n\n\n\n\n\n\n\n\n\n2023年，オーム社\n星野匡郎，田中久稔，北川梨津 著\n\n本書のサポートページ\n\n\n\n\n\n2014年，早稲田大学出版部\n星野匡郎 著\n\n\n\n\n\n2011年，勁草書房\n柘植隆宏，三谷羊平，栗山浩一 編著\n\n第4章「顕示選好法の新展開」庄子康，星野匡郎，柘植隆宏 著\n第6章「顕示選好法の最新テクニック2：空間ヘドニック法」星野匡郎 著"
+  },
+  {
+    "objectID": "teach.html#free-online-textbooks",
+    "href": "teach.html#free-online-textbooks",
+    "title": "Teaching Materials",
+    "section": "Free Online Textbooks",
+    "text": "Free Online Textbooks\n\nCausal Inference: The Mixtape, Scott Cunningham\nThe Elements of Statistical Learning, Trevor Hastie et al.\nAn Introduction to Statistical Learning, Gareth James et al.\nDiscrete Choice Methods with Simulation, Kenneth Train"
+  },
+  {
+    "objectID": "teach.html#econometrics-ii-graduate-school-of-economics",
+    "href": "teach.html#econometrics-ii-graduate-school-of-economics",
+    "title": "Teaching Materials",
+    "section": "",
+    "text": "Advanced Econometrics: Graduate Econometrics Textbook (Last updated: January 2026)"
   }
 ]

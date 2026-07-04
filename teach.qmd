@@ -1,5 +1,14 @@
 ---
-title: "Research"
+title: "Teaching Materials"
 ---
 
-Published and Forthcoming Papers
+## Econometrics II (Graduate School of Economics)
+
+- [Advanced Econometrics](https://drive.google.com/file/d/11Hdf5ezKx2heXPEYEIlrmer-Jv2kcX5g/view?usp=sharing){target="_blank"}: Graduate Econometrics Textbook (Last updated: January 2026)
+
+## Free Online Textbooks
+
+- [Causal Inference: The Mixtape](https://mixtape.scunning.com/){target="_blank"}, Scott Cunningham
+- [The Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn/){target="_blank"}, Trevor Hastie et al.
+- [An Introduction to Statistical Learning](https://www.statlearning.com/){target="_blank"}, Gareth James et al.
+- [Discrete Choice Methods with Simulation](https://eml.berkeley.edu/books/choice2.html){target="_blank"}, Kenneth Train
