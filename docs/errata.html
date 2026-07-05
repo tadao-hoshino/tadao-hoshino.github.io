@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Research – Tadao Hoshino</title>
+<title>Errata – Tadao Hoshino</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -69,6 +69,35 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="style.css">
 </head>
@@ -99,7 +128,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Profile</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./research.html" aria-current="page"> 
+    <a class="nav-link" href="./research.html"> 
 <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
@@ -127,7 +156,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Research</h1>
+<h1 class="title">Errata</h1>
 </div>
 
 
@@ -144,194 +173,36 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="forthcoming-and-published-papers" class="level2">
-<h2 class="anchored" data-anchor-id="forthcoming-and-published-papers">Forthcoming and Published Papers</h2>
-<section id="published-in-20262030" class="level3">
-<h3 class="anchored" data-anchor-id="published-in-20262030">Published in 2026–2030</h3>
+<p>Last updated: 30/Dec/2023</p>
+<section id="estimating-a-continuous-treatment-model-with-spillovers-a-control-function-approach" class="level3">
+<h3 class="anchored" data-anchor-id="estimating-a-continuous-treatment-model-with-spillovers-a-control-function-approach">Estimating a Continuous Treatment Model with Spillovers: A Control Function Approach</h3>
 <ul>
-<li>Conditional Randomization Tests for the Specification of Interference Structure, with <a href="https://sites.google.com/view/takahide-yanagi" target="_blank">Takahide Yanagi</a>.
-<ul>
-<li><strong>Journal of Applied Econometrics</strong>, forthcoming. [<a href="https://onlinelibrary.wiley.com/doi/10.1002/jae.70076" target="_blank">paper</a>] [<a href="https://arxiv.org/abs/2301.05580" target="_blank">arXiv</a>] [<a href="https://tkhdyanagi.github.io/testinterference/" target="_blank">R package</a>]</li>
-</ul></li>
+<li>In the paragraph just below Theorem 2, “the upper bound for <span class="math inline">\(\tau_n^*\)</span> is <span class="math inline">\(O(\tau_n \kappa_n)\)</span>” should be “the upper bound for <span class="math inline">\(\tau_n^*\)</span> is <span class="math inline">\(O(\tau_n \sqrt{\kappa_n})\)</span>”.</li>
 </ul>
 </section>
-<section id="published-in-20212025" class="level3">
-<h3 class="anchored" data-anchor-id="published-in-20212025">Published in 2021–2025</h3>
+<section id="sieve-iv-estimation-of-cross-sectional-interaction-models-with-nonparametric-endogenous-effect" class="level3">
+<h3 class="anchored" data-anchor-id="sieve-iv-estimation-of-cross-sectional-interaction-models-with-nonparametric-endogenous-effect">Sieve IV Estimation of Cross-Sectional Interaction Models with Nonparametric Endogenous Effect</h3>
 <ul>
-<li>Exploring Practical Treatment Assignment Rules for Place-Based Policies: A Japanese Case Study, with <a href="https://sites.google.com/view/sfujishima" target="_blank">Shota Fujishima</a> and <a href="https://sites.google.com/view/shinya-sugawara/home" target="_blank">Shinya Sugawara</a>.
-<ul>
-<li><strong>Journal of Regional Science</strong>, 2025, 65, 1353–1378. [<a href="https://onlinelibrary.wiley.com/doi/10.1111/jors.70006" target="_blank">paper</a>]</li>
-</ul></li>
-<li>Causal Inference with Noncompliance and Unknown Interference, with <a href="https://sites.google.com/view/takahide-yanagi" target="_blank">Takahide Yanagi</a>.
-<ul>
-<li><strong>Journal of the American Statistical Association</strong>, 2024, 119, 2869–2880. [<a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2023.2284413" target="_blank">paper</a>] [<a href="https://arxiv.org/abs/2108.07455" target="_blank">arXiv</a>] [<a href="https://tkhdyanagi.github.io/latenetwork/" target="_blank">R package</a>]</li>
-</ul></li>
-<li>Estimating a Continuous Treatment Model with Spillovers: A Control Function Approach.
-<ul>
-<li><strong>Journal of Business &amp; Economic Statistics</strong>, 2024, 42, 591–602. [<a href="https://doi.org/10.1080/07350015.2023.2207617" target="_blank">paper</a>] [<a href="https://arxiv.org/abs/2112.15114" target="_blank">arXiv</a>] [<a href="./errata.html">errata</a>]</li>
-</ul></li>
-<li>Treatment Effect Models with Strategic Interaction in Treatment Decisions, with <a href="https://sites.google.com/view/takahide-yanagi" target="_blank">Takahide Yanagi</a>.
-<ul>
-<li><strong>Journal of Econometrics</strong>, 2023, 236, 105495. [<a href="https://doi.org/10.1016/j.jeconom.2023.105495" target="_blank">paper</a>] [<a href="https://arxiv.org/abs/1810.08350" target="_blank">arXiv</a>]</li>
-</ul></li>
-<li>Estimating Marginal Treatment Effects under Unobserved Group Heterogeneity, with <a href="https://sites.google.com/view/takahide-yanagi" target="_blank">Takahide Yanagi</a>.
-<ul>
-<li><strong>Journal of Causal Inference</strong>, 2022, 10, 197–216. [<a href="https://doi.org/10.1515/jci-2021-0052" target="_blank">paper</a>] [<a href="https://arxiv.org/abs/2001.09560" target="_blank">arXiv</a>]</li>
-</ul></li>
-<li>A Pairwise Strategic Network Formation Model with Group Heterogeneity: With an Application to International Travel.
-<ul>
-<li><strong>Network Science</strong>, 2022, 10, 170–189. [<a href="https://doi.org/10.1017/nws.2022.16" target="_blank">paper</a>] [<a href="https://arxiv.org/abs/2012.14886" target="_blank">arXiv</a>]</li>
-</ul></li>
-<li>Sieve IV Estimation of Cross-Sectional Interaction Models with Nonparametric Endogenous Effect.
-<ul>
-<li><strong>Journal of Econometrics</strong>, 2022, 229, 263–275. [<a href="https://doi.org/10.1016/j.jeconom.2020.11.008" target="_blank">paper</a>] [<a href="./errata.html">errata</a>]</li>
-</ul></li>
+<li>In the proof of Theorem 3.4(i), there is an error in the evaluation of <span class="math inline">\(\| D_{n22,d} \|\)</span>. Consequently, we need to slightly strengthen Assumption 3.5 to <span class="math inline">\(J^3/(\underline{\nu}_{JK}n) = O(1)\)</span>.</li>
 </ul>
 </section>
-<section id="published-in-20162020" class="level3">
-<h3 class="anchored" data-anchor-id="published-in-20162020">Published in 2016–2020</h3>
+<section id="semiparametric-spatial-autoregressive-models-with-endogenous-regressors-with-an-application-to-crime-data" class="level3">
+<h3 class="anchored" data-anchor-id="semiparametric-spatial-autoregressive-models-with-endogenous-regressors-with-an-application-to-crime-data">Semiparametric Spatial Autoregressive Models With Endogenous Regressors: With an Application to Crime Data</h3>
 <ul>
-<li>Accounting for Heterogeneity in Network Formation Behavior: An Application to Vietnamese SMEs, with <a href="https://sites.google.com/site/daichishimamoto/en" target="_blank">Daichi Shimamoto</a> and <a href="https://sites.google.com/view/yastodo/home" target="_blank">Yasuyuki Todo</a>.
-<ul>
-<li><strong>Oxford Bulletin of Economics &amp; Statistics</strong>, 2020, 82, 1042–1067. [<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/obes.12360" target="_blank">paper</a>]</li>
-</ul></li>
-<li>Semiparametric Estimation of Censored Spatial Autoregressive Models.
-<ul>
-<li><strong>Econometric Theory</strong>, 2020, 36, 48–85. [<a href="https://doi.org/10.1017/S0266466618000488" target="_blank">paper</a>]</li>
-</ul></li>
-<li>Two-Step Estimation of Incomplete Information Social Interaction Models with Sample Selection.
-<ul>
-<li><strong>Journal of Business &amp; Economic Statistics</strong>, 2019, 37, 598–612. [<a href="https://doi.org/10.1080/07350015.2017.1394861" target="_blank">paper</a>]</li>
-</ul></li>
-<li>Semiparametric Spatial Autoregressive Models with Endogenous Regressors: With an Application to Crime Data.
-<ul>
-<li><strong>Journal of Business &amp; Economic Statistics</strong>, 2018, 36, 160–172. [<a href="https://doi.org/10.1080/07350015.2016.1146145" target="_blank">paper</a>] [<a href="./errata.html">errata</a>]</li>
-</ul></li>
-<li>Economic Valuation of Environmental Quality Using Property Auctions Data: A Structural Estimation Approach, with <a href="https://kenkyu.kanagawa-u.ac.jp/kuhp/KgApp?Language=2&amp;kyoinId=ymbbgsgsggy" target="_blank">Hayato Nakanishi</a>.
-<ul>
-<li><strong>Land Economics</strong>, 2016, 92, 703–717. [<a href="https://le.uwpress.org/content/92/4/703.short" target="_blank">paper</a>]</li>
-<li>A shorter Japanese version of this paper is available in <strong>住宅土地経済</strong> 2018, 春季号, 16–22.</li>
-<li>This paper won the Young Achievement Award at the SEEPS annual conference 2018.</li>
-</ul></li>
-<li>Sieve Instrumental Variable Quantile Regression Estimation of Functional Coefficient Models, with <a href="https://www.sem.tsinghua.edu.cn/en/info/1240/7145.htm" target="_blank">Liangjun Su</a>.
-<ul>
-<li><strong>Journal of Econometrics</strong>, 2016, 191, 231–254. [<a href="https://doi.org/10.1016/j.jeconom.2015.10.006" target="_blank">paper</a>]</li>
-</ul></li>
+<li><p>In the proof of Lemma A.1(ii), <span class="math inline">\(\| R_{n2} \| \le \| R_{n21} \| + \| R_{n22} \|\)</span> should be <span class="math inline">\(\| R_{n2} \| \le \| R_{n21} \| + 2\| R_{n22} \|\)</span>.</p></li>
+<li><p>In the proof of (4.6) in Section A.3, we need an additional condition to ensure that <span class="math inline">\(\sqrt{n}\left[\mathbb{S}_t \hat{\mathbf{J}}_n(s_i^*) \mathbb{S}_t'\right]^{-1/2}\left(\hat{\delta}_n(s_i^*) - \bar{\delta}_n\right)\)</span> and <span class="math inline">\(\sqrt{n}\left[\mathbb{S}_t \hat{\mathbf{J}}_n(s_j^*) \mathbb{S}_t'\right]^{-1/2}\left(\hat{\delta}_n(s_j^*) - \bar{\delta}_n\right)\)</span> are asymptotically uncorrelated.</p></li>
 </ul>
 </section>
-<section id="published-in-20102015" class="level3">
-<h3 class="anchored" data-anchor-id="published-in-20102015">Published in 2010–2015</h3>
+<section id="quantile-regression-estimation-of-partially-linear-additive-models" class="level3">
+<h3 class="anchored" data-anchor-id="quantile-regression-estimation-of-partially-linear-additive-models">Quantile Regression Estimation of Partially Linear Additive Models</h3>
 <ul>
-<li>The Effect of Seismic Hazard Risk Information on Property Prices: Evidence from a Spatial Regression Discontinuity Design, with <a href="https://researchmap.jp/read0008338/?lang=english" target="_blank">Noboru Hidano</a> and Ayako Sugiura.
-<ul>
-<li><strong>Regional Science &amp; Urban Economics</strong>, 2015, 53, 113–122. [<a href="https://doi.org/10.1016/j.regsciurbeco.2015.05.005" target="_blank">paper</a>]</li>
-</ul></li>
-<li>Quantile Regression Estimation of Partially Linear Additive Models.
-<ul>
-<li><strong>Journal of Nonparametric Statistics</strong>, 2014, 26, 509–536. [<a href="https://doi.org/10.1080/10485252.2014.929675" target="_blank">paper</a>] [<a href="./errata.html">errata</a>]</li>
-</ul></li>
-<li>Estimation of the Preference Heterogeneity within Stated Choice Data Using Semiparametric Varying-Coefficient Methods.
-<ul>
-<li><strong>Empirical Economics</strong>, 2013, 45, 1129–1148. [<a href="https://link.springer.com/article/10.1007/s00181-012-0646-5" target="_blank">paper</a>]</li>
-</ul></li>
-<li>Partial Identification in Binary Response Models with Nonignorable Nonresponses.
-<ul>
-<li><strong>Economics Letters</strong>, 2013, 121, 74–78. [<a href="https://doi.org/10.1016/j.econlet.2013.07.009" target="_blank">paper</a>] [<a href="./errata.html">errata</a>]</li>
-</ul></li>
-<li>Econometric Analysis Using Semiparametric Functional Coefficient Methods.
-<ul>
-<li>Ph.D.&nbsp;Dissertation, 2012, <strong>the Tokyo Institute of Technology</strong>.</li>
-</ul></li>
-<li>Estimation and Analysis of Preference Heterogeneity in Residential Choice Behaviour.
-<ul>
-<li><strong>Urban Studies</strong>, 2011, 48, 363–382. [<a href="https://doi.org/10.1177/0042098010363498" target="_blank">paper</a>]</li>
-<li>This paper is based on my MSc Research Paper submitted to <strong>the London School of Economics</strong>.</li>
-</ul></li>
-<li>Measuring the Benefits of Neighborhood Park Amenities: Application and Comparison of Spatial Hedonic Approaches, with <a href="https://kkuri.eco.coocan.jp/index-e.html" target="_blank">Koichi Kuriyama</a>.
-<ul>
-<li><strong>Environmental &amp; Resource Economics</strong>, 2010, 45, 429–444. [<a href="https://link.springer.com/article/10.1007/s10640-009-9321-5" target="_blank">paper</a>]</li>
-</ul></li>
+<li>In the proof of Lemma A.3, <span class="math inline">\(E\| S_{1n} \| = 0\)</span> should be <span class="math inline">\(ES_{1n} = 0\)</span>.</li>
 </ul>
 </section>
-</section>
-<section id="submitted-papers-working-papers-work-in-progress" class="level2">
-<h2 class="anchored" data-anchor-id="submitted-papers-working-papers-work-in-progress">Submitted Papers / Working Papers / Work in Progress</h2>
+<section id="partial-identification-in-binary-response-models-with-nonignorable-nonresponses" class="level3">
+<h3 class="anchored" data-anchor-id="partial-identification-in-binary-response-models-with-nonignorable-nonresponses">Partial Identification in Binary Response Models with Nonignorable Nonresponses</h3>
 <ul>
-<li><p>Network Autoregressive Models for Functional Panel Data, with <a href="https://sites.google.com/site/tomohiroando0801" target="_blank">Tomohiro Ando</a>. [<a href="https://arxiv.org/abs/2502.13431" target="_blank">arXiv</a>]</p>
-<ul>
-<li>Under revision for resubmission to <strong>Journal of Econometrics</strong>.</li>
-</ul></li>
-<li><p>Estimating Dyadic Treatment Effects with Unknown Confounders, with <a href="https://sites.google.com/view/takahide-yanagi" target="_blank">Takahide Yanagi</a>. [<a href="https://arxiv.org/abs/2405.16547" target="_blank">arXiv</a>]</p>
-<ul>
-<li>Under revision for resubmission to <strong>Biometrika</strong>.</li>
-</ul></li>
-<li><p>Evaluating Policy Effects under Network Interference without Network Information: A Transfer Learning Approach. [<a href="https://arxiv.org/abs/2510.14415" target="_blank">arXiv</a>]</p></li>
-<li><p>Quantile Vector Autoregression without Crossing, with <a href="https://sites.google.com/site/tomohiroando0801" target="_blank">Tomohiro Ando</a> and <a href="https://www.chicagobooth.edu/faculty/emeriti/ruey-s-tsay" target="_blank">Ruey Tsay</a>. [<a href="https://arxiv.org/abs/2601.04663" target="_blank">arXiv</a>]</p></li>
-<li><p>Network-Adjusted GMM Estimation under Network Uncertainty.</p></li>
-</ul>
-</section>
-<section id="unpublished-papers-and-other-writings" class="level2">
-<h2 class="anchored" data-anchor-id="unpublished-papers-and-other-writings">Unpublished Papers and Other Writings</h2>
-<ul>
-<li>Functional Spatial Autoregressive Models. [<a href="https://arxiv.org/abs/2402.14763" target="_blank">arXiv</a>]
-<ul>
-<li>Last updated: 2024/10/1.</li>
-</ul></li>
-<li>Causal Interpretation of Linear Social Interaction Models with Endogenous Networks. [<a href="https://arxiv.org/abs/2308.04276" target="_blank">arXiv</a>]
-<ul>
-<li>Last updated: 2023/10/20.</li>
-</ul></li>
-<li>Toyo Keizai Online 2022/01/14. [<a href="https://toyokeizai.net/articles/-/576483" target="_blank">article</a>]
-<ul>
-<li>This is an online article written for a Japanese magazine.</li>
-</ul></li>
-<li>Heterogeneous Treatment Effects of Place-based Policies: Which Cities Should be Targeted?, with <a href="https://sites.google.com/view/sfujishima" target="_blank">Shota Fujishima</a> and <a href="https://sites.google.com/view/shinya-sugawara/home" target="_blank">Shinya Sugawara</a>.
-<ul>
-<li>RIETI Discussion Paper Series 20-E-036. [<a href="https://www.rieti.go.jp/en/publications/summary/20040017.html" target="_blank">paper</a>]</li>
-<li>This paper has been completely revised as a new paper: Fujishima, Hoshino, and Sugawara (2025), Journal of Regional Science.</li>
-</ul></li>
-</ul>
-</section>
-<section id="presentations-2010" class="level2">
-<h2 class="anchored" data-anchor-id="presentations-2010">Presentations (2010–)</h2>
-<section id="international-conferences" class="level3">
-<h3 class="anchored" data-anchor-id="international-conferences">International Conferences</h3>
-<ul>
-<li>International Symposium on Econometric Theory and Applications, Tokyo, Japan. [06/2026]</li>
-<li>Econometric Society Australasian Meeting, Melbourne, Australia. [12/2024]</li>
-<li>International Conference on Econometrics and Statistics, Tokyo, Japan. [8/2023]</li>
-<li>World Conference of the Spatial Econometrics Association, Warsaw, Poland. [6/2022]</li>
-<li>International Conference on Econometrics and Statistics, Kyoto, Japan. [6/2022]</li>
-<li>World Conference of the Spatial Econometrics Association, Pittsburgh, USA. [11/2019]</li>
-<li>International Association for Applied Econometrics, Cyprus. [06/2019]</li>
-<li>International Symposium on Econometric Theory and Applications, Osaka, Japan. [06/2019]</li>
-<li>Asian Meeting of the Econometric Society, Hong Kong. [06/2017]</li>
-<li>European Meeting of the Econometric Society, Geneva, Switzerland. [08/2016]</li>
-<li>International Association for Applied Econometrics, Thessaloniki, Greece. [06/2015]</li>
-<li>European Meeting of the Econometric Society, Gothenburg, Sweden. [08/2013]</li>
-<li>Australasian Meeting of the Econometric Society, Melbourne, Australia. [07/2012]</li>
-<li>Asian Meeting of the Econometric Society, Seoul, South Korea. [08/2011]</li>
-<li>World Conference of the Spatial Econometrics Association, Toulouse, France. [07/2011]</li>
-<li>World Congress of the Econometric Society, Shanghai, China. [08/2010]</li>
-<li>World Congress of Environmental and Resource Economists, Montreal, Canada. [07/2010]</li>
-</ul>
-</section>
-<section id="invited-seminars" class="level3">
-<h3 class="anchored" data-anchor-id="invited-seminars">Invited Seminars</h3>
-<p>2026: Kyoto University; Singapore Management University; Nanyang Technological University. 2025: Keio University; Macquarie University; The University of Melbourne; National Taiwan University; National Cheng Kung University. 2024: Tohoku University. 2023: Xiamen University. 2022: Tokyo University; Kwansei Gakuin University; Keio University. 2021: Japanese Joint Statistical Meeting. 2020: Seoul National University. 2018: Kyoto University. 2017: Chinese University of Hong Kong; Waseda University; Housing Research and Advancement Foundation of Japan. 2016: Waseda University. 2015: Keio University; Tokyo University; Kwansei Gakuin University. 2014: Tokyo University of Science. 2013: Tsukuba University; Kobe University. 2012: Waseda University. 2011: Singapore Management University; Waseda University. 2010: Nagoya University.</p>
-</section>
-</section>
-<section id="grants" class="level2">
-<h2 class="anchored" data-anchor-id="grants">Grants</h2>
-<ul>
-<li>Grant-in-Aid for Scientific Research (C): Japan Society for the Promotion of Science, 2026–2030.</li>
-<li>Fund for the Promotion of Joint International Research: Japan Society for the Promotion of Science, 2024–2025.</li>
-<li>Grant-in-Aid for Scientific Research (C): Japan Society for the Promotion of Science, 2020–2024.</li>
-<li>Grant-in-Aid for Young Scientists (B): Japan Society for the Promotion of Science, 2015–2019.</li>
-<li>Waseda University Grant for Special Research Projects: Waseda University, 2014.</li>
-<li>Grant-in-Aid for JSPS Fellows (PD): Japan Society for the Promotion of Science, 2012–2014.</li>
-<li>Econometric Society Travel Grant: Asian Meeting of the Econometric Society, 2011.</li>
-<li>Grant-in-Aid for JSPS Fellows (DC2): Japan Society for the Promotion of Science, 2010–2012.</li>
+<li>In the final formula given in Section 5, <span class="math inline">\(\frac{x_{qi}}{\hat f_n}(v_i \mid x_i)\)</span> should be <span class="math inline">\(\frac{x_{qi}}{\hat f_n(v_i \mid x_i)}\)</span>.</li>
 </ul>
 
 

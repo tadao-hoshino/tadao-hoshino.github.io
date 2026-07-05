@@ -1,0 +1,27 @@
+---
+title: "Errata"
+---
+
+Last updated: 30/Dec/2023
+
+### Estimating a Continuous Treatment Model with Spillovers: A Control Function Approach
+
+-   In the paragraph just below Theorem 2, “the upper bound for $\tau_n^*$ is $O(\tau_n \kappa_n)$” should be “the upper bound for $\tau_n^*$ is $O(\tau_n \sqrt{\kappa_n})$”.
+
+### Sieve IV Estimation of Cross-Sectional Interaction Models with Nonparametric Endogenous Effect
+
+-   In the proof of Theorem 3.4(i), there is an error in the evaluation of $\| D_{n22,d} \|$. Consequently, we need to slightly strengthen Assumption 3.5 to $J^3/(\underline{\nu}_{JK}n) = O(1)$.
+
+### Semiparametric Spatial Autoregressive Models With Endogenous Regressors: With an Application to Crime Data
+
+-   In the proof of Lemma A.1(ii), $\| R_{n2} \| \le \| R_{n21} \| + \| R_{n22} \|$ should be $\| R_{n2} \| \le \| R_{n21} \| + 2\| R_{n22} \|$.
+
+-   In the proof of (4.6) in Section A.3, we need an additional condition to ensure that $\sqrt{n}\left[\mathbb{S}_t \hat{\mathbf{J}}_n(s_i^*) \mathbb{S}_t'\right]^{-1/2}\left(\hat{\delta}_n(s_i^*) - \bar{\delta}_n\right)$ and $\sqrt{n}\left[\mathbb{S}_t \hat{\mathbf{J}}_n(s_j^*) \mathbb{S}_t'\right]^{-1/2}\left(\hat{\delta}_n(s_j^*) - \bar{\delta}_n\right)$ are asymptotically uncorrelated.
+
+### Quantile Regression Estimation of Partially Linear Additive Models
+
+-   In the proof of Lemma A.3, $E\| S_{1n} \| = 0$ should be $ES_{1n} = 0$.
+
+### Partial Identification in Binary Response Models with Nonignorable Nonresponses
+
+-   In the final formula given in Section 5, $\frac{x_{qi}}{\hat f_n}(v_i \mid x_i)$ should be $\frac{x_{qi}}{\hat f_n(v_i \mid x_i)}$.

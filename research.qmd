@@ -2,4 +2,147 @@
 title: "Research"
 ---
 
-Published and Forthcoming Papers
+## Forthcoming and Published Papers
+
+### Published in 2026--2030
+
+- Conditional Randomization Tests for the Specification of Interference Structure, with [Takahide Yanagi](https://sites.google.com/view/takahide-yanagi){target="_blank"}.
+  - **Journal of Applied Econometrics**, forthcoming. [[paper](https://onlinelibrary.wiley.com/doi/10.1002/jae.70076){target="_blank"}] [[arXiv](https://arxiv.org/abs/2301.05580){target="_blank"}] [[R package](https://tkhdyanagi.github.io/testinterference/){target="_blank"}]
+
+### Published in 2021--2025
+
+- Exploring Practical Treatment Assignment Rules for Place-Based Policies: A Japanese Case Study, with [Shota Fujishima](https://sites.google.com/view/sfujishima){target="_blank"} and [Shinya Sugawara](https://sites.google.com/view/shinya-sugawara/home){target="_blank"}.
+  - **Journal of Regional Science**, 2025, 65, 1353--1378. [[paper](https://onlinelibrary.wiley.com/doi/10.1111/jors.70006){target="_blank"}]
+
+- Causal Inference with Noncompliance and Unknown Interference, with [Takahide Yanagi](https://sites.google.com/view/takahide-yanagi){target="_blank"}.
+  - **Journal of the American Statistical Association**, 2024, 119, 2869--2880. [[paper](https://www.tandfonline.com/doi/full/10.1080/01621459.2023.2284413){target="_blank"}] [[arXiv](https://arxiv.org/abs/2108.07455){target="_blank"}] [[R package](https://tkhdyanagi.github.io/latenetwork/){target="_blank"}]
+
+- Estimating a Continuous Treatment Model with Spillovers: A Control Function Approach.
+  - **Journal of Business & Economic Statistics**, 2024, 42, 591--602. [[paper](https://doi.org/10.1080/07350015.2023.2207617){target="_blank"}] [[arXiv](https://arxiv.org/abs/2112.15114){target="_blank"}] [[errata](errata.qmd)]
+
+- Treatment Effect Models with Strategic Interaction in Treatment Decisions, with [Takahide Yanagi](https://sites.google.com/view/takahide-yanagi){target="_blank"}.
+  - **Journal of Econometrics**, 2023, 236, 105495. [[paper](https://doi.org/10.1016/j.jeconom.2023.105495){target="_blank"}] [[arXiv](https://arxiv.org/abs/1810.08350){target="_blank"}]
+
+- Estimating Marginal Treatment Effects under Unobserved Group Heterogeneity, with [Takahide Yanagi](https://sites.google.com/view/takahide-yanagi){target="_blank"}.
+  - **Journal of Causal Inference**, 2022, 10, 197--216. [[paper](https://doi.org/10.1515/jci-2021-0052){target="_blank"}] [[arXiv](https://arxiv.org/abs/2001.09560){target="_blank"}]
+
+- A Pairwise Strategic Network Formation Model with Group Heterogeneity: With an Application to International Travel.
+  - **Network Science**, 2022, 10, 170--189. [[paper](https://doi.org/10.1017/nws.2022.16){target="_blank"}] [[arXiv](https://arxiv.org/abs/2012.14886){target="_blank"}]
+
+- Sieve IV Estimation of Cross-Sectional Interaction Models with Nonparametric Endogenous Effect.
+  - **Journal of Econometrics**, 2022, 229, 263--275. [[paper](https://doi.org/10.1016/j.jeconom.2020.11.008){target="_blank"}] [[errata](errata.qmd)]
+
+### Published in 2016--2020
+
+- Accounting for Heterogeneity in Network Formation Behavior: An Application to Vietnamese SMEs, with [Daichi Shimamoto](https://sites.google.com/site/daichishimamoto/en){target="_blank"} and [Yasuyuki Todo](https://sites.google.com/view/yastodo/home){target="_blank"}.
+  - **Oxford Bulletin of Economics & Statistics**, 2020, 82, 1042--1067. [[paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/obes.12360){target="_blank"}]
+
+- Semiparametric Estimation of Censored Spatial Autoregressive Models.
+  - **Econometric Theory**, 2020, 36, 48--85. [[paper](https://doi.org/10.1017/S0266466618000488){target="_blank"}]
+
+- Two-Step Estimation of Incomplete Information Social Interaction Models with Sample Selection.
+  - **Journal of Business & Economic Statistics**, 2019, 37, 598--612. [[paper](https://doi.org/10.1080/07350015.2017.1394861){target="_blank"}]
+
+- Semiparametric Spatial Autoregressive Models with Endogenous Regressors: With an Application to Crime Data.
+  - **Journal of Business & Economic Statistics**, 2018, 36, 160--172. [[paper](https://doi.org/10.1080/07350015.2016.1146145){target="_blank"}] [[errata](errata.qmd)]
+
+- Economic Valuation of Environmental Quality Using Property Auctions Data: A Structural Estimation Approach, with [Hayato Nakanishi](https://kenkyu.kanagawa-u.ac.jp/kuhp/KgApp?Language=2&kyoinId=ymbbgsgsggy){target="_blank"}.
+  - **Land Economics**, 2016, 92, 703--717. [[paper](https://le.uwpress.org/content/92/4/703.short){target="_blank"}]
+  - A shorter Japanese version of this paper is available in **住宅土地経済** 2018, 春季号, 16--22.
+  - This paper won the Young Achievement Award at the SEEPS annual conference 2018.
+
+- Sieve Instrumental Variable Quantile Regression Estimation of Functional Coefficient Models, with [Liangjun Su](https://www.sem.tsinghua.edu.cn/en/info/1240/7145.htm){target="_blank"}.
+  - **Journal of Econometrics**, 2016, 191, 231--254. [[paper](https://doi.org/10.1016/j.jeconom.2015.10.006){target="_blank"}]
+
+### Published in 2010--2015
+
+- The Effect of Seismic Hazard Risk Information on Property Prices: Evidence from a Spatial Regression Discontinuity Design, with [Noboru Hidano](https://researchmap.jp/read0008338/?lang=english){target="_blank"} and Ayako Sugiura.
+  - **Regional Science & Urban Economics**, 2015, 53, 113--122. [[paper](https://doi.org/10.1016/j.regsciurbeco.2015.05.005){target="_blank"}]
+
+- Quantile Regression Estimation of Partially Linear Additive Models.
+  - **Journal of Nonparametric Statistics**, 2014, 26, 509--536. [[paper](https://doi.org/10.1080/10485252.2014.929675){target="_blank"}] [[errata](errata.qmd)]
+
+- Estimation of the Preference Heterogeneity within Stated Choice Data Using Semiparametric Varying-Coefficient Methods.
+  - **Empirical Economics**, 2013, 45, 1129--1148. [[paper](https://link.springer.com/article/10.1007/s00181-012-0646-5){target="_blank"}]
+
+- Partial Identification in Binary Response Models with Nonignorable Nonresponses.
+  - **Economics Letters**, 2013, 121, 74--78. [[paper](https://doi.org/10.1016/j.econlet.2013.07.009){target="_blank"}] [[errata](errata.qmd)]
+
+- Econometric Analysis Using Semiparametric Functional Coefficient Methods.
+  - Ph.D. Dissertation, 2012, **the Tokyo Institute of Technology**.
+
+- Estimation and Analysis of Preference Heterogeneity in Residential Choice Behaviour.
+  - **Urban Studies**, 2011, 48, 363--382. [[paper](https://doi.org/10.1177/0042098010363498){target="_blank"}]
+  - This paper is based on my MSc Research Paper submitted to **the London School of Economics**.
+
+- Measuring the Benefits of Neighborhood Park Amenities: Application and Comparison of Spatial Hedonic Approaches, with [Koichi Kuriyama](https://kkuri.eco.coocan.jp/index-e.html){target="_blank"}.
+  - **Environmental & Resource Economics**, 2010, 45, 429--444. [[paper](https://link.springer.com/article/10.1007/s10640-009-9321-5){target="_blank"}]
+
+
+## Submitted Papers / Working Papers / Work in Progress
+
+- Network Autoregressive Models for Functional Panel Data, with [Tomohiro Ando](https://sites.google.com/site/tomohiroando0801){target="_blank"}. [[arXiv](https://arxiv.org/abs/2502.13431){target="_blank"}]
+  - Under revision for resubmission to **Journal of Econometrics**.
+
+- Estimating Dyadic Treatment Effects with Unknown Confounders, with [Takahide Yanagi](https://sites.google.com/view/takahide-yanagi){target="_blank"}. [[arXiv](https://arxiv.org/abs/2405.16547){target="_blank"}]
+  - Under revision for resubmission to **Biometrika**.
+
+- Evaluating Policy Effects under Network Interference without Network Information: A Transfer Learning Approach. [[arXiv](https://arxiv.org/abs/2510.14415){target="_blank"}]
+
+- Quantile Vector Autoregression without Crossing, with [Tomohiro Ando](https://sites.google.com/site/tomohiroando0801){target="_blank"} and [Ruey Tsay](https://www.chicagobooth.edu/faculty/emeriti/ruey-s-tsay){target="_blank"}. [[arXiv](https://arxiv.org/abs/2601.04663){target="_blank"}]
+
+- Network-Adjusted GMM Estimation under Network Uncertainty.
+
+
+## Unpublished Papers and Other Writings
+
+- Functional Spatial Autoregressive Models. [[arXiv](https://arxiv.org/abs/2402.14763){target="_blank"}]
+  - Last updated: 2024/10/1.
+
+- Causal Interpretation of Linear Social Interaction Models with Endogenous Networks. [[arXiv](https://arxiv.org/abs/2308.04276){target="_blank"}]
+  - Last updated: 2023/10/20.
+
+- Toyo Keizai Online 2022/01/14. [[article](https://toyokeizai.net/articles/-/576483){target="_blank"}]
+  - This is an online article written for a Japanese magazine.
+
+- Heterogeneous Treatment Effects of Place-based Policies: Which Cities Should be Targeted?, with [Shota Fujishima](https://sites.google.com/view/sfujishima){target="_blank"} and [Shinya Sugawara](https://sites.google.com/view/shinya-sugawara/home){target="_blank"}.
+  - RIETI Discussion Paper Series 20-E-036. [[paper](https://www.rieti.go.jp/en/publications/summary/20040017.html){target="_blank"}]
+  - This paper has been completely revised as a new paper: Fujishima, Hoshino, and Sugawara (2025), Journal of Regional Science.
+
+
+## Presentations (2010--)
+
+### International Conferences
+
+- International Symposium on Econometric Theory and Applications, Tokyo, Japan. [06/2026]
+- Econometric Society Australasian Meeting, Melbourne, Australia. [12/2024]
+- International Conference on Econometrics and Statistics, Tokyo, Japan. [8/2023]
+- World Conference of the Spatial Econometrics Association, Warsaw, Poland. [6/2022]
+- International Conference on Econometrics and Statistics, Kyoto, Japan. [6/2022]
+- World Conference of the Spatial Econometrics Association, Pittsburgh, USA. [11/2019]
+- International Association for Applied Econometrics, Cyprus. [06/2019]
+- International Symposium on Econometric Theory and Applications, Osaka, Japan. [06/2019]
+- Asian Meeting of the Econometric Society, Hong Kong. [06/2017]
+- European Meeting of the Econometric Society, Geneva, Switzerland. [08/2016]
+- International Association for Applied Econometrics, Thessaloniki, Greece. [06/2015]
+- European Meeting of the Econometric Society, Gothenburg, Sweden. [08/2013]
+- Australasian Meeting of the Econometric Society, Melbourne, Australia. [07/2012]
+- Asian Meeting of the Econometric Society, Seoul, South Korea. [08/2011]
+- World Conference of the Spatial Econometrics Association, Toulouse, France. [07/2011]
+- World Congress of the Econometric Society, Shanghai, China. [08/2010]
+- World Congress of Environmental and Resource Economists, Montreal, Canada. [07/2010]
+
+### Invited Seminars
+
+2026: Kyoto University; Singapore Management University; Nanyang Technological University. 2025: Keio University; Macquarie University; The University of Melbourne; National Taiwan University; National Cheng Kung University. 2024: Tohoku University. 2023: Xiamen University. 2022: Tokyo University; Kwansei Gakuin University; Keio University. 2021: Japanese Joint Statistical Meeting. 2020: Seoul National University. 2018: Kyoto University. 2017: Chinese University of Hong Kong; Waseda University; Housing Research and Advancement Foundation of Japan. 2016: Waseda University. 2015: Keio University; Tokyo University; Kwansei Gakuin University. 2014: Tokyo University of Science. 2013: Tsukuba University; Kobe University. 2012: Waseda University. 2011: Singapore Management University; Waseda University. 2010: Nagoya University.
+
+## Grants
+
+- Grant-in-Aid for Scientific Research (C): Japan Society for the Promotion of Science, 2026--2030.
+- Fund for the Promotion of Joint International Research: Japan Society for the Promotion of Science, 2024--2025.
+- Grant-in-Aid for Scientific Research (C): Japan Society for the Promotion of Science, 2020--2024.
+- Grant-in-Aid for Young Scientists (B): Japan Society for the Promotion of Science, 2015--2019.
+- Waseda University Grant for Special Research Projects: Waseda University, 2014.
+- Grant-in-Aid for JSPS Fellows (PD): Japan Society for the Promotion of Science, 2012--2014.
+- Econometric Society Travel Grant: Asian Meeting of the Econometric Society, 2011.
+- Grant-in-Aid for JSPS Fellows (DC2): Japan Society for the Promotion of Science, 2010--2012.
