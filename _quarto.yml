@@ -18,7 +18,7 @@ website:
         text: Books (Japanese)
 format:
   html:
-    theme: lux
+    theme: lumen
     toc: false
     css: style.css
     include-in-header:
