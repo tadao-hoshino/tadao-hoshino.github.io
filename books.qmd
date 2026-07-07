@@ -11,7 +11,7 @@ title: "Books"
 ::: {.book-info}
 ### [統計的仮説検定の方法論](https://www.nippyo.co.jp/shop/book/9561.html){target="_blank"}
 
-- 2025年, 日本評論社
+- 2025年，日本評論社
 - 星野匡郎 著
 
 :::
