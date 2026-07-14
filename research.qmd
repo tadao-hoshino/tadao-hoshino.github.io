@@ -91,7 +91,7 @@ title: "Research"
 
 - Quantile Vector Autoregression without Crossing, with [Tomohiro Ando](https://sites.google.com/site/tomohiroando0801){target="_blank"} and [Ruey Tsay](https://www.chicagobooth.edu/faculty/emeriti/ruey-s-tsay){target="_blank"}. [[arXiv](https://arxiv.org/abs/2601.04663){target="_blank"}]
 
-- Network-Adjusted GMM Estimation under Network Uncertainty.
+- Network-Adjusted GMM Estimation under Network Uncertainty. [[arXiv](https://arxiv.org/abs/2607.10613){target="_blank"}]
 
 
 ## Unpublished Papers and Other Writings
