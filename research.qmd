@@ -81,18 +81,21 @@ title: "Research"
 
 ## Submitted Papers / Working Papers / Work in Progress
 
-- Network Autoregressive Models for Functional Panel Data, with [Tomohiro Ando](https://sites.google.com/site/tomohiroando0801){target="_blank"}. [[arXiv](https://arxiv.org/abs/2502.13431){target="_blank"}]
-  - Under revision for resubmission to **Journal of Econometrics**.
-
 - Estimating Dyadic Treatment Effects with Unknown Confounders, with [Takahide Yanagi](https://sites.google.com/view/takahide-yanagi){target="_blank"}. [[arXiv](https://arxiv.org/abs/2405.16547){target="_blank"}]
   - Under revision for resubmission to **Biometrika**.
 
-- Evaluating Policy Effects under Network Interference without Network Information: A Transfer Learning Approach. [[arXiv](https://arxiv.org/abs/2510.14415){target="_blank"}]
-
 - Quantile Vector Autoregression without Crossing, with [Tomohiro Ando](https://sites.google.com/site/tomohiroando0801){target="_blank"} and [Ruey Tsay](https://www.chicagobooth.edu/faculty/emeriti/ruey-s-tsay){target="_blank"}. [[arXiv](https://arxiv.org/abs/2601.04663){target="_blank"}]
+  - Under revision for resubmission to **Journal of the American Statistical Association**
+
+- Network Autoregressive Models for Functional Panel Data, with [Tomohiro Ando](https://sites.google.com/site/tomohiroando0801){target="_blank"}. [[arXiv](https://arxiv.org/abs/2502.13431){target="_blank"}]
+
+- Evaluating Policy Effects under Network Interference without Network Information: A Transfer Learning Approach. [[arXiv](https://arxiv.org/abs/2510.14415){target="_blank"}]
 
 - Network-Adjusted GMM Estimation under Network Uncertainty. [[arXiv](https://arxiv.org/abs/2607.10613){target="_blank"}]
 
+- Quantile-to-Quantile Network Discovery in Functional Quantile Vector Autoregressions, with [Tomohiro Ando](https://sites.google.com/site/tomohiroando0801){target="_blank"}. 
+
+- State-Dependent Targeted Quantile Hedging, with [Yi-Chi Chen](https://researchoutput.ncku.edu.tw/en/persons/yi-chi-chen/){target="_blank"}. 
 
 ## Unpublished Papers and Other Writings
 
@@ -114,6 +117,7 @@ title: "Research"
 
 ### International Conferences
 
+- Singapore Econometrics Conference, Singapore. [08/2026]
 - International Symposium on Econometric Theory and Applications, Tokyo, Japan. [06/2026]
 - Econometric Society Australasian Meeting, Melbourne, Australia. [12/2024]
 - International Conference on Econometrics and Statistics, Tokyo, Japan. [8/2023]
@@ -134,7 +138,7 @@ title: "Research"
 
 ### Invited Seminars
 
-2026: Kyoto University; Singapore Management University; Nanyang Technological University. 2025: Keio University; Macquarie University; The University of Melbourne; National Taiwan University; National Cheng Kung University. 2024: Tohoku University. 2023: Xiamen University. 2022: Tokyo University; Kwansei Gakuin University; Keio University. 2021: Japanese Joint Statistical Meeting. 2020: Seoul National University. 2018: Kyoto University. 2017: Chinese University of Hong Kong; Waseda University; Housing Research and Advancement Foundation of Japan. 2016: Waseda University. 2015: Keio University; Tokyo University; Kwansei Gakuin University. 2014: Tokyo University of Science. 2013: Tsukuba University; Kobe University. 2012: Waseda University. 2011: Singapore Management University; Waseda University. 2010: Nagoya University.
+2026: Kyoto University; Nanyang Technological University. 2025: Keio University; Macquarie University; The University of Melbourne; National Taiwan University; National Cheng Kung University. 2024: Tohoku University. 2023: Xiamen University. 2022: Tokyo University; Kwansei Gakuin University; Keio University. 2021: Japanese Joint Statistical Meeting. 2020: Seoul National University. 2018: Kyoto University. 2017: Chinese University of Hong Kong; Waseda University; Housing Research and Advancement Foundation of Japan. 2016: Waseda University. 2015: Keio University; Tokyo University; Kwansei Gakuin University. 2014: Tokyo University of Science. 2013: Tsukuba University; Kobe University. 2012: Waseda University. 2011: Singapore Management University; Waseda University. 2010: Nagoya University.
 
 ## Grants
 
