@@ -2,6 +2,25 @@
 title: "Research"
 ---
 
+## Working Papers / Work in Progress
+
+- Estimating Dyadic Treatment Effects with Unknown Confounders, with [Takahide Yanagi](https://sites.google.com/view/takahide-yanagi){target="_blank"}. [[arXiv](https://arxiv.org/abs/2405.16547){target="_blank"}]
+  - Under revision for resubmission to **Biometrika**.
+
+- Quantile Vector Autoregression without Crossing, with [Tomohiro Ando](https://sites.google.com/site/tomohiroando0801){target="_blank"} and [Ruey Tsay](https://www.chicagobooth.edu/faculty/emeriti/ruey-s-tsay){target="_blank"}. [[arXiv](https://arxiv.org/abs/2601.04663){target="_blank"}]
+  - Under revision for resubmission to **Journal of the American Statistical Association**
+
+- Evaluating Policy Effects under Network Interference without Network Information: A Transfer Learning Approach. [[arXiv](https://arxiv.org/abs/2510.14415){target="_blank"}]
+  - Under revision for resubmission to **the Review of Economics and Statistics**.
+  
+- Network Autoregressive Models for Functional Panel Data, with [Tomohiro Ando](https://sites.google.com/site/tomohiroando0801){target="_blank"}. [[arXiv](https://arxiv.org/abs/2502.13431){target="_blank"}]
+  
+- Network-Adjusted GMM Estimation under Network Uncertainty. [[arXiv](https://arxiv.org/abs/2607.10613){target="_blank"}]
+
+- Quantile-to-Quantile Network Discovery in Functional Quantile Vector Autoregressions, with [Tomohiro Ando](https://sites.google.com/site/tomohiroando0801){target="_blank"}. 
+
+- State-Dependent Targeted Quantile Hedging, with [Yi-Chi Chen](https://researchoutput.ncku.edu.tw/en/persons/yi-chi-chen/){target="_blank"}.
+
 ## Forthcoming and Published Papers
 
 ### Published in 2026--2030
@@ -77,26 +96,6 @@ title: "Research"
 
 - Measuring the Benefits of Neighborhood Park Amenities: Application and Comparison of Spatial Hedonic Approaches, with [Koichi Kuriyama](https://kkuri.eco.coocan.jp/index-e.html){target="_blank"}.
   - **Environmental & Resource Economics**, 2010, 45, 429--444. [[paper](https://link.springer.com/article/10.1007/s10640-009-9321-5){target="_blank"}]
-
-
-## Submitted Papers / Working Papers / Work in Progress
-
-- Estimating Dyadic Treatment Effects with Unknown Confounders, with [Takahide Yanagi](https://sites.google.com/view/takahide-yanagi){target="_blank"}. [[arXiv](https://arxiv.org/abs/2405.16547){target="_blank"}]
-  - Under revision for resubmission to **Biometrika**.
-
-- Quantile Vector Autoregression without Crossing, with [Tomohiro Ando](https://sites.google.com/site/tomohiroando0801){target="_blank"} and [Ruey Tsay](https://www.chicagobooth.edu/faculty/emeriti/ruey-s-tsay){target="_blank"}. [[arXiv](https://arxiv.org/abs/2601.04663){target="_blank"}]
-  - Under revision for resubmission to **Journal of the American Statistical Association**
-
-- Evaluating Policy Effects under Network Interference without Network Information: A Transfer Learning Approach. [[arXiv](https://arxiv.org/abs/2510.14415){target="_blank"}]
-  - Under revision for resubmission to **the Review of Economics and Statistics**.
-  
-- Network Autoregressive Models for Functional Panel Data, with [Tomohiro Ando](https://sites.google.com/site/tomohiroando0801){target="_blank"}. [[arXiv](https://arxiv.org/abs/2502.13431){target="_blank"}]
-  
-- Network-Adjusted GMM Estimation under Network Uncertainty. [[arXiv](https://arxiv.org/abs/2607.10613){target="_blank"}]
-
-- Quantile-to-Quantile Network Discovery in Functional Quantile Vector Autoregressions, with [Tomohiro Ando](https://sites.google.com/site/tomohiroando0801){target="_blank"}. 
-
-- State-Dependent Targeted Quantile Hedging, with [Yi-Chi Chen](https://researchoutput.ncku.edu.tw/en/persons/yi-chi-chen/){target="_blank"}. 
 
 ## Unpublished Papers and Other Writings
 
