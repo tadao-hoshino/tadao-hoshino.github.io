@@ -87,10 +87,11 @@ title: "Research"
 - Quantile Vector Autoregression without Crossing, with [Tomohiro Ando](https://sites.google.com/site/tomohiroando0801){target="_blank"} and [Ruey Tsay](https://www.chicagobooth.edu/faculty/emeriti/ruey-s-tsay){target="_blank"}. [[arXiv](https://arxiv.org/abs/2601.04663){target="_blank"}]
   - Under revision for resubmission to **Journal of the American Statistical Association**
 
-- Network Autoregressive Models for Functional Panel Data, with [Tomohiro Ando](https://sites.google.com/site/tomohiroando0801){target="_blank"}. [[arXiv](https://arxiv.org/abs/2502.13431){target="_blank"}]
-
 - Evaluating Policy Effects under Network Interference without Network Information: A Transfer Learning Approach. [[arXiv](https://arxiv.org/abs/2510.14415){target="_blank"}]
-
+  - Under revision for resubmission to **the Review of Economics and Statistics**.
+  
+- Network Autoregressive Models for Functional Panel Data, with [Tomohiro Ando](https://sites.google.com/site/tomohiroando0801){target="_blank"}. [[arXiv](https://arxiv.org/abs/2502.13431){target="_blank"}]
+  
 - Network-Adjusted GMM Estimation under Network Uncertainty. [[arXiv](https://arxiv.org/abs/2607.10613){target="_blank"}]
 
 - Quantile-to-Quantile Network Discovery in Functional Quantile Vector Autoregressions, with [Tomohiro Ando](https://sites.google.com/site/tomohiroando0801){target="_blank"}. 
