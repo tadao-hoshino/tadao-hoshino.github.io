@@ -23,12 +23,8 @@ title: "Research"
 
 ## Forthcoming and Published Papers
 
-### Published in 2026--2030
-
 - Conditional Randomization Tests for the Specification of Interference Structure, with [Takahide Yanagi](https://sites.google.com/view/takahide-yanagi){target="_blank"}.
-  - **Journal of Applied Econometrics**, forthcoming. [[paper](https://onlinelibrary.wiley.com/doi/10.1002/jae.70076){target="_blank"}] [[arXiv](https://arxiv.org/abs/2301.05580){target="_blank"}] [[R package](https://tkhdyanagi.github.io/testinterference/){target="_blank"}]
-
-### Published in 2021--2025
+  - **Journal of Applied Econometrics**, 2026, 41, 791--805. [[paper](https://onlinelibrary.wiley.com/doi/10.1002/jae.70076){target="_blank"}] [[arXiv](https://arxiv.org/abs/2301.05580){target="_blank"}] [[R package](https://tkhdyanagi.github.io/testinterference/){target="_blank"}]
 
 - Exploring Practical Treatment Assignment Rules for Place-Based Policies: A Japanese Case Study, with [Shota Fujishima](https://sites.google.com/view/sfujishima){target="_blank"} and [Shinya Sugawara](https://sites.google.com/view/shinya-sugawara/home){target="_blank"}.
   - **Journal of Regional Science**, 2025, 65, 1353--1378. [[paper](https://onlinelibrary.wiley.com/doi/10.1111/jors.70006){target="_blank"}]
@@ -51,8 +47,6 @@ title: "Research"
 - Sieve IV Estimation of Cross-Sectional Interaction Models with Nonparametric Endogenous Effect.
   - **Journal of Econometrics**, 2022, 229, 263--275. [[paper](https://doi.org/10.1016/j.jeconom.2020.11.008){target="_blank"}] [[errata](errata.qmd)]
 
-### Published in 2016--2020
-
 - Accounting for Heterogeneity in Network Formation Behavior: An Application to Vietnamese SMEs, with [Daichi Shimamoto](https://sites.google.com/site/daichishimamoto/en){target="_blank"} and [Yasuyuki Todo](https://sites.google.com/view/yastodo/home){target="_blank"}.
   - **Oxford Bulletin of Economics & Statistics**, 2020, 82, 1042--1067. [[paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/obes.12360){target="_blank"}]
 
@@ -73,8 +67,6 @@ title: "Research"
 - Sieve Instrumental Variable Quantile Regression Estimation of Functional Coefficient Models, with [Liangjun Su](https://www.sem.tsinghua.edu.cn/en/info/1240/7145.htm){target="_blank"}.
   - **Journal of Econometrics**, 2016, 191, 231--254. [[paper](https://doi.org/10.1016/j.jeconom.2015.10.006){target="_blank"}]
 
-### Published in 2010--2015
-
 - The Effect of Seismic Hazard Risk Information on Property Prices: Evidence from a Spatial Regression Discontinuity Design, with [Noboru Hidano](https://researchmap.jp/read0008338/?lang=english){target="_blank"} and Ayako Sugiura.
   - **Regional Science & Urban Economics**, 2015, 53, 113--122. [[paper](https://doi.org/10.1016/j.regsciurbeco.2015.05.005){target="_blank"}]
 
@@ -87,8 +79,11 @@ title: "Research"
 - Partial Identification in Binary Response Models with Nonignorable Nonresponses.
   - **Economics Letters**, 2013, 121, 74--78. [[paper](https://doi.org/10.1016/j.econlet.2013.07.009){target="_blank"}] [[errata](errata.qmd)]
 
-- Econometric Analysis Using Semiparametric Functional Coefficient Methods.
-  - Ph.D. Dissertation, 2012, **the Tokyo Institute of Technology**.
+### Ph.D. dissertation (2012)
+
+- Econometric Analysis Using Semiparametric Functional Coefficient Methods, **the Tokyo Institute of Technology**.
+
+### Pre-doctoral publications
 
 - Estimation and Analysis of Preference Heterogeneity in Residential Choice Behaviour.
   - **Urban Studies**, 2011, 48, 363--382. [[paper](https://doi.org/10.1177/0042098010363498){target="_blank"}]
