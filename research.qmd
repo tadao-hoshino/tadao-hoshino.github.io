@@ -82,7 +82,7 @@ title: "Research"
 ### Ph.D. dissertation
 
 - Econometric Analysis Using Semiparametric Functional Coefficient Methods
-  - *The Tokyo Institute of Technology**, 2012.
+  - **The Tokyo Institute of Technology**, 2012.
 
 ### Pre-doctoral publications
 
